@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+
+# Virtual environment
+venv/
+env/
+ENV/
+
+# Jupyter / IPython
+.ipynb_checkpoints
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# PyTorch / Torch Hub
+*.pt
+*.pth
+~/.cache/torch/hub/
+
+
+
+
+
+# Streamlit cache
+.streamlit/
+
+
+
+# Logs
+*.log
